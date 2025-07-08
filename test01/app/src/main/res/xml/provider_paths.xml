@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <paths>
+        <!-- cache/captures/ 이하 모든 파일 공유 -->
+        <cache-path
+            name="caps"
+            path="captures/" />
+    </paths>
+
+
+
+</PreferenceScreen>
