@@ -33,7 +33,7 @@ import java.nio.ByteOrder
 import kotlin.math.exp
 
 /**  단일 클래스-모델(best_float32.tflite, output:[1,300,6]) +
- *   박스 “유/무”로만 헬멧 착용 여부를 판단한다.                       */
+ *   박스 “유/무”로만 헬멧 착용 여부를 판단한다.                     */
 class TestModelActivity : ComponentActivity() {
 
     /* ───────── 필드 ───────── */
